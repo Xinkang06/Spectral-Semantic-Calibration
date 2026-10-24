@@ -2,7 +2,7 @@
 
 Core implementation of the Spectral Semantic Calibration (SSC) method.
 
-SSC compares token predictions from an original chest X-ray and a spatially downsampled and upsampled view. It applies bounded multiplicative calibration within the Top-$K$ candidates selected from the original-view prediction distribution.
+SSC compares token predictions from an original chest X-ray and a spatially downsampled and upsampled view. It applies bounded multiplicative calibration within the Top-K candidates selected from the original-view prediction distribution.
 
 ## Repository Contents
 
