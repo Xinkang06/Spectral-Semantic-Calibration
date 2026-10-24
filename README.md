@@ -1,4 +1,4 @@
-# Spectral Semantic Calibration
+# Spectral-Semantic-Calibration
 
 Core implementation of the Spectral Semantic Calibration (SSC) method.
 
@@ -22,4 +22,4 @@ The SSC parameters used in the paper are:
 
 ## Acknowledgments
 
-SSC uses LLaVA-Rad and R2GenGPT as backbone models. When using their code or models, please follow the licenses and citation requirements of the upstream repositories.# Spectral-Semantic-Calibration
+SSC uses LLaVA-Rad and R2GenGPT as backbone models. When using their code or models, please follow the licenses and citation requirements of the upstream repositories.
